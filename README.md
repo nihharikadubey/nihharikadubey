@@ -75,6 +75,6 @@
 ### **📬 Contact Me**
 <p align="center">
 <a href="https://www.linkedin.com/in/nihharikadubey"><img src="https://img.shields.io/badge/LinkedIn-nihharikadubey-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/niharika859"><img src="https://img.shields.io/badge/GitHub-niharika859-lightgrey?style=flat-square&logo=github"></a>
+<a href="https://github.com/nihharikadubey"><img src="https://img.shields.io/badge/GitHub-niharika859-lightgrey?style=flat-square&logo=github"></a>
 <a href="mailto:niharika859@gmail.com"><img src="https://img.shields.io/badge/Email-niharika859@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
