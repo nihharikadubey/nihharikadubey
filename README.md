@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hey, I'm Nihharika Dubey!</h1>
-<h3 align="center">🚀 Infrastructure & DevOps Engineer | Cloud | Automation | Secure Data Transfers</h3>
+<h3 align="center">🚀 Infrastructure & DevOps Engineer | Cloud | Automation | Managed File Transfers</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nihharikadubey">
