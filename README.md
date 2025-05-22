@@ -71,15 +71,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 24.8 kB Used in GitHub's Storage 
  > 
 > 🏆 66 Contributions in the Year 2025
  > 
@@ -87,7 +85,7 @@
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -138,7 +136,7 @@ EJS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 01:43:40 UTC
+ Last Updated on 22/05/2025 04:54:24 UTC
 <!--END_SECTION:waka-->
 
 ---
