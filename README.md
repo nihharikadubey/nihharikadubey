@@ -4,7 +4,7 @@
   
 
 <!-- Fixed Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Secure+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional&repeat=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Managed+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional&repeat=true"/>
 
 </div>
 
