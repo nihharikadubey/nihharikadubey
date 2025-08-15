@@ -1,7 +1,12 @@
 # 🌊 Niharika Dubey | Infrastructure & DevOps Engineer
+
+<div align="center">
   
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Secure+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Niharika%20Dubey&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infrastructure%20%26%20DevOps%20Engineer&descSize=16&descAlignY=51"/>
+
+<!-- Fixed Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Secure+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional&repeat=true"/>
 
 </div>
 
@@ -136,7 +141,6 @@ timeline
 
 <div align="center">
 
-<!--START_SECTION:waka-->
 <img src="https://github-profile-trophy.vercel.app/?username=nihharikadubey&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=10&margin-w=10"/>
 
 </div>
@@ -158,7 +162,6 @@ timeline
 🎯 Primary Language: Python (40% of repositories)
 📍 Time Zone: Asia/Kolkata
 ```
-<!--END_SECTION:waka-->
 
 ---
 
