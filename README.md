@@ -1,97 +1,198 @@
-<!-- Profile GIF and Kicker: Center, Brighter Accent Glow -->
+# 🌊 Niharika Dubey | Infrastructure & DevOps Engineer
+
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" style="border-radius:28px;box-shadow:0 0 24px #fbca1f66,0 2px 16px #f43f5e33;" />
-</div>
-
-<br/>
-
-<h1 align="center">
-  <span style="background:linear-gradient(90deg,#FFD700 5%,#F43F5E 50%,#FFC107 95%);
-              -webkit-background-clip:text;background-clip:text;color:transparent;
-              font-weight:900;font-size:2.8rem;letter-spacing:0.02em;">
-    Niharika Dubey
-  </span>
-</h1>
-<h3 align="center" style="color:#deb887;">
-  🚀 Infrastructure & DevOps Engineer | Cloud | Automation | Managed File Transfers
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nihharikadubey">
-    <img src="https://img.shields.io/badge/LinkedIn-nihharikadubey-ffb300?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/nihharikadubey">
-    <img src="https://img.shields.io/badge/GitHub-nihharikadubey-7b42bc?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:niharika859@gmail.com">
-    <img src="https://img.shields.io/badge/Email-niharika859@gmail.com-f43f5e?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-<table align="center">
-<tr>
-<td align="center" valign="top" width="50%">
   
-### 🎯 <span style="color:#FFD700;">About Me</span>
-<ul>
-  <li>🚀 <b>6+ Years</b> in <b>Infrastructure & DevOps Engineering</b></li>
-  <li>💡 <b>Expertise:</b> Secure Data Transfers, Middleware, Automation, CI/CD, Cloud</li>
-  <li>🛠️ <b>Hands-on:</b> AWS, Kubernetes, Terraform, Ansible, Jenkins, Prometheus</li>
-  <li>🤝 <b>Collaboration:</b> Cloud Infra, DevSecOps, Secure File Transfers</li>
-  <li>💼 <b>Industries:</b> <span style="color:#ffc107">Banking</span>, Healthcare, Retail</li>
-</ul>
-</td>
-<td align="center" valign="top" width="50%">    
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Niharika%20Dubey&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infrastructure%20%26%20DevOps%20Engineer&descSize=16&descAlignY=51"/>
 
-### ⚙️ <span style="color:#F43F5E;">Tech Stack & Tools</span><br>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,azure,bash,jenkins,githubactions,prometheus,grafana,postgres,mysql,vscode" /><br/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Secure+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional"/>
 
-<div align="left">
-
-#### 🔧 Languages & Automation
-<img src="https://img.shields.io/badge/Shell-FFD700?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-ee0000?style=flat-square&logo=ansible&logoColor=white"/>
-<br/>
-
-#### ☁️ Cloud & DevOps<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </div>
-</td>
-</tr>
-</table>
 
 ---
 
-### 🌱 **Recent Projects**
-- **NoteVault:** Automated **Jenkins CI/CD pipeline** for Node.js app using **AWS, SonarQube, OWASP, Terraform**.
-- **SecureScan:** Implemented **DevSecOps security testing** in **Azure DevOps** using **CBOM, SBOM, Syft, Podman**.
+## 🚀 **About Me**
+
+<img align="right" alt="DevOps" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+```yaml
+name: "Niharika Dubey"
+role: "Infrastructure & DevOps Engineer"
+experience: "6+ Years"
+location: "India"
+focus:
+  - Cloud Architecture (AWS, Azure)
+  - DevOps Automation & CI/CD
+  - Secure File Transfer Solutions
+  - Kubernetes & Container Orchestration
+  - Infrastructure as Code
+  - Monitoring & Observability
+
+current_company: "HSBC Bank"
+previous: ["OCBC Bank", "Siemens Healthineers", "Infosys Limited"]
+
+expertise:
+  security: ["Enterprise Security", "Compliance Standards"]
+  automation: ["Jenkins", "GitHub Actions", "Terraform"]
+  monitoring: ["Prometheus", "Grafana", "ELK Stack"]
+  
+fun_fact: "I turn complex infrastructure into simple, scalable solutions! 🛠️"
+```
 
 ---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **☁️ Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **🔧 DevOps & Automation**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### **📊 Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### **💻 Languages & Scripting**
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **🔐 Security & File Transfer**
+![IBM Sterling](https://img.shields.io/badge/IBM_Sterling-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![TIBCO](https://img.shields.io/badge/TIBCO-FF6D00?style=for-the-badge&logo=tibco&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-4A90E2?style=for-the-badge&logo=files&logoColor=white)
+![AS2](https://img.shields.io/badge/AS2-0B3D91?style=for-the-badge&logo=security&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 **Professional Journey**
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Timeline
+    2020-2022 : Infosys Limited
+              : Senior System Engineer
+              : MFT & API Solutions
+    2022-2022 : Siemens Healthineers
+              : Cloud Infrastructure Specialist
+              : GoAnywhere MFT Platform
+    2023-2025 : OCBC Bank
+              : Infrastructure Engineer
+              : CI/CD & Microservices
+    2025-Present : HSBC Bank
+                 : Senior DevOps Engineer
+                 : BigID & GCP Implementation
+```
+
+</div>
+
+---
+
+## 🏆 **Featured Projects**
+
+<div align="center">
+
+| 🚀 **Project** | 🛠️ **Tech Stack** | 📝 **Description** |
+|:---:|:---:|:---:|
+| **NoteVault** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) | Automated CI/CD pipeline with SonarQube & OWASP security scanning |
+| **SecureScan** | ![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) | DevSecOps implementation with CBOM/SBOM analysis |
+| **BigID Pipeline** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326ce5?style=flat&logo=kubernetes&logoColor=white) | Enterprise data governance automation |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihharikadubey&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&icon_color=667eea"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihharikadubey&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=9f9f9f"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihharikadubey&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffc83d&currStreakLabel=667eea&sideNums=9f9f9f&currStreakNum=ffffff&dates=9f9f9f&sideLabels=9f9f9f"/>
+
+</div>
+
+---
+
+## 🏅 **GitHub Achievements**
+
+<div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-ffc107)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-f43f5e)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.8k%20lines%20of%20code-fbbf24)
+<img src="https://github-profile-trophy.vercel.app/?username=nihharikadubey&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=10&margin-w=10"/>
+
+</div>
+
+---
+
+## 📈 **Weekly Development Breakdown**
+
+```text
+💼 Current Focus Areas:
+🔥 BigID Implementation         █████████████████████░   84% 
+☁️ GCP Infrastructure          ██████████████░░░░░░░   68%
+🔐 Security Automation         ████████████░░░░░░░░░   60%
+📊 ELK Stack Integration       ███████████░░░░░░░░░░   55%
+🚀 Helm Charts Development     ████████░░░░░░░░░░░░░   40%
+
+📅 Most Productive Day: Thursday (39.56% of commits)
+🕐 Peak Hours: Daytime (37.36% of activity)
+🎯 Primary Language: Python (40% of repositories)
+📍 Time Zone: Asia/Kolkata
+```
 <!--END_SECTION:waka-->
 
 ---
 
-### 📬 **Contact Me**
-<p align="center">
-<a href="https://www.linkedin.com/in/nihharikadubey"><img src="https://img.shields.io/badge/LinkedIn-nihharikadubey-ffb300?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/nihharikadubey"><img src="https://img.shields.io/badge/GitHub-nihharikadubey-7b42bc?style=flat-square&logo=github"></a>
-<a href="mailto:niharika859@gmail.com"><img src="https://img.shields.io/badge/Email-niharika859@gmail.com-f43f5e?style=flat-square&logo=gmail"></a>
-</p>
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihharikadubey)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihharikadubey)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharika859@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **"Turning complex infrastructure challenges into elegant, scalable solutions"**
+
+<img src="https://komarev.com/ghpvc/?username=nihharikadubey&style=for-the-badge&color=667eea"/>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+<i>⭐ Star my repositories if you find them useful! Let's build amazing infrastructure together! 🚀</i>
+</div>
