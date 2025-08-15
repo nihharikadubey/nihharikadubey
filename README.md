@@ -2,15 +2,13 @@
 
 <div align="center">
   
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Niharika%20Dubey&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infrastructure%20%26%20DevOps%20Engineer&descSize=16&descAlignY=51"/>
 
 <!-- Fixed Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=Infrastructure+%26+DevOps+Engineer;6%2B+Years+in+Cloud+%26+Automation;Secure+File+Transfer+Specialist;CI%2FCD+Pipeline+Expert;AWS+%26+Kubernetes+Professional&repeat=true"/>
 
 </div>
 
----
+
 
 ## 🚀 **About Me**
 
@@ -40,7 +38,7 @@ expertise:
 fun_fact: "I turn complex infrastructure into simple, scalable solutions! 🛠️"
 ```
 
----
+
 
 ## 🛠️ **Tech Arsenal**
 
@@ -79,7 +77,7 @@ fun_fact: "I turn complex infrastructure into simple, scalable solutions! 🛠�
 
 </div>
 
----
+
 
 ## 🎯 **Professional Journey**
 
@@ -104,7 +102,7 @@ timeline
 
 </div>
 
----
+
 
 ## 🏆 **Featured Projects**
 
@@ -118,7 +116,7 @@ timeline
 
 </div>
 
----
+
 
 ## 📊 **GitHub Analytics**
 
@@ -135,7 +133,7 @@ timeline
 
 </div>
 
----
+
 
 ## 🏅 **GitHub Achievements**
 
@@ -145,7 +143,7 @@ timeline
 
 </div>
 
----
+
 
 ## 📈 **Weekly Development Breakdown**
 
@@ -163,7 +161,7 @@ timeline
 📍 Time Zone: Asia/Kolkata
 ```
 
----
+
 
 ## 🌐 **Connect & Collaborate**
 
@@ -176,7 +174,7 @@ timeline
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -189,7 +187,7 @@ timeline
 
 </div>
 
----
+
 
 <div align="center">
 <i>⭐ Star my repositories if you find them useful! Let's build amazing infrastructure together! 🚀</i>
